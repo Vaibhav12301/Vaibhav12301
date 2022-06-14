@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav12301
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning a Web Development Course
 - 💞️ I’m looking to collaborate ...
 - 📫 You can reach me on https://www.linkedin.com/in/vaibhav-gaikwad-4b4363215/ and also https://twitter.com/Vaibhav_12301
 
